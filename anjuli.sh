@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Script section created and managed by Anjuli
+# This section echos back selected movies based on user rating
+
 echo "This script will return three movies based on the the rating that you search for. Which movie rating would you like to search for? Please type the number of the corresponding movie rating and then>
 echo "1 - R"
 echo "2 - PG13"
