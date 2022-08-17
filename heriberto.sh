@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Section managed and created by Heriberto Mendoza
 # This part of the script will search through the database by genre and display the title
 
 # ask user input for genre:
