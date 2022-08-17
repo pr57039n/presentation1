@@ -14,4 +14,4 @@ TBD
 * Pat - Recommended handling via multiple choice / case statements. In charge of the year filter
 * Ricardo - In charge of runtime filter - rbonnet9
 * Anjuli -  In charge of the certficiate filter - AnjKura
-* Antonio - In charge of the director filter
+* Antonio - In charge of the director filter - Antoniorios17 
