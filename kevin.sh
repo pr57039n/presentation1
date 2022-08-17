@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Section managed and created by Kevin sanaycela
+# This script is to filter the movies list by their IMDB rating
 
 echo "Welcome, please enter the lower limit of your range for IMDB Rating (0-10):  "
 read lower_limit
