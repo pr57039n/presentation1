@@ -3,6 +3,16 @@
 # Section managed and created by Heriberto Mendoza
 # This part of the script will search through the database by genre and display the title
 
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#NOTES:
+#1-for the beta version of this part of the script, user must input the
+#genre as shown.
+#2-Movies with any of the genres in the name will be shown, even if said
+#movies do not have the specific genre in the genre field. the search function
+#DOES NOT search by field.
+#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 # ask user input for genre:
 echo "Possible genres are: action, adventure, animation, biography, comedy, crime, drama, horror, mystery";
 read -p "What genre film would you like to watch? " var_genre;
