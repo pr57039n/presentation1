@@ -2,6 +2,7 @@
 
 #Portion created by pat reynolds 8/16/21
 #If the user selects to search by year, the output will be based on said year. If invalid input; user is reprompted.
+#Cases that would cause an error/malformed title - if the title has comma's in it.
 PS3="Please select the number corresponding to the year you wish to search by: "
 select i in 2015 2016 2017 2018 2019 2020 exit
 do
