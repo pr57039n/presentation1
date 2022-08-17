@@ -28,6 +28,6 @@ case $var_parameter in
   ;;
   
   *)
-  echo "unknown parameter.
+  echo "unknown parameter."
   ;;
 esac
