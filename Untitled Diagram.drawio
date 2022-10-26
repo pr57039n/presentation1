@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T11:30:46.771Z" agent="5.0 (Windows)" version="20.5.1" etag="N8N85Dm1giOpYXWe_CRC" type="github"><diagram id="NX0NXi5nA3ZRsXf8iZ22">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T11:40:47.509Z" agent="5.0 (Windows)" etag="usq1XR4SmXuD869kL_tL" version="20.5.1" type="github">
+  <diagram id="NX0NXi5nA3ZRsXf8iZ22" name="Page-1">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j1aJU8eNNWgj_-eCZfe-1" target="4j1aJU8eNNWgj_-eCZfe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4j1aJU8eNNWgj_-eCZfe-1" target="4j1aJU8eNNWgj_-eCZfe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-1" value="Github" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-9" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j1aJU8eNNWgj_-eCZfe-8">
+          <mxGeometry x="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-11" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="4j1aJU8eNNWgj_-eCZfe-8">
+          <mxGeometry x="30" y="60" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-12" value="Build - Built virtual env" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4j1aJU8eNNWgj_-eCZfe-11">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-13" value="Test - Test function of application.py" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="4j1aJU8eNNWgj_-eCZfe-11">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4j1aJU8eNNWgj_-eCZfe-15" target="4j1aJU8eNNWgj_-eCZfe-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-21" value="&lt;div&gt;Jenkins&lt;/div&gt;&lt;div&gt;Pulls from Github&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-22" value="Individual user downloads from Github" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j1aJU8eNNWgj_-eCZfe-27" target="4j1aJU8eNNWgj_-eCZfe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-27" value="&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Elastic Beanstalk&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-29" value="&lt;div&gt;User uploads&lt;/div&gt;&lt;div&gt;zip file&lt;/div&gt;&lt;div&gt;to EBS&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4j1aJU8eNNWgj_-eCZfe-30" value="&lt;div&gt;Flask Application&lt;/div&gt;&lt;div&gt;Running on EC2&lt;/div&gt;&lt;div&gt;Instance&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
